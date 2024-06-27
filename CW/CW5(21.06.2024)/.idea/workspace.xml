@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5f1cdee-5815-4e7d-86bc-a9fdc46ed179" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyProject/App/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/App/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/App/templates/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/171016045/Documents/GitHub/django/CW/CW5(21.06.2024)",
+    "last_opened_file_path": "C:/Users/171016045/Documents/GitHub/django/CW/CW_Proj_Django_Girls",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
